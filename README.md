@@ -184,7 +184,6 @@ event_receiver/
 ├── run.py
 ├── run_worker.py
 ├── requirements.txt
-├── requirements-lock.txt
 ├── .gitignore
 └── README.md
 ```
